@@ -124,7 +124,7 @@ header {
         font-size: .7rem; }
 
 #testimonials {
-  padding-top: 4rem;
+  padding: 5rem 0 5rem 0;
   background-color: #f0fff1; }
   #testimonials h3 {
     text-align: center;
@@ -225,7 +225,7 @@ header {
 
 footer {
   position: relative;
-  height: 50vh;
+  height: 40vh;
   background-color: #282531;
   color: #fff;
   padding: 2rem 0; }
